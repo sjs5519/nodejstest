@@ -27,6 +27,6 @@ app.get('/sound/:name', function (req, res) {
 //     console.log(q)
 // })
 
-app.listen(5500, () => {
-    console.log("listening port 5500 >>>")
+app.listen(3000, () => {
+    console.log("listening port 3000 >>>")
 })
